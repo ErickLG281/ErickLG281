@@ -3,7 +3,6 @@
 </div>
 <img src="https://i.imgur.com/uiUbxyG.jpg">
 
-
 ## Sobre mi
 
 - ⭐ Github ⭐
@@ -12,7 +11,6 @@
 - ⚙️ Systems Engineer
 
 <br>
-
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
@@ -30,13 +28,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
     </div>
 </div>
-
 <br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ErickLG281&theme=highcontrast&hide_border=verdadero&locale=es&mode=weekly)](https://git.io/streak-stats)
-
-<br>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
