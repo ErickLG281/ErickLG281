@@ -25,9 +25,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
-
     </div>
-</div>
 <br>
 ### ⚙️ &nbsp;GitHub Analytics
 
