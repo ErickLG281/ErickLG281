@@ -11,7 +11,7 @@
 - ⚙️ Systems Engineer
 
 <br>
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics:
 
 <p align="center">
     <a href="https://github.com/ErickLG281">
