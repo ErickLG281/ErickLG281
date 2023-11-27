@@ -127,5 +127,4 @@ My ability to adapt quickly, coupled with my tireless work ethic, allows me to t
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
